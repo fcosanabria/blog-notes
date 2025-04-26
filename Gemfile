@@ -20,6 +20,11 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-minifier"
   gem "jekyll-toc"
+  gem 'csv'
+  gem 'logger'
+  gem 'base64'
+  gem 'bigdecimal'
+  gem 'webrick'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
