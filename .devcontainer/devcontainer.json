@@ -3,5 +3,19 @@
     "context": "..",
     "dockerfile": "Dockerfile"
   },
-  "postCreateCommand": "scripts/setup"
+  "postCreateCommand": "scripts/setup",
+  "forwardPorts": [
+    4000,
+    35729
+  ],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll Server",
+      "onAutoForward": "notify"
+    },
+    "35729": {
+      "label": "Jekyll LiveReload",
+      "onAutoForward": "silent"
+    }
+  }
 }
