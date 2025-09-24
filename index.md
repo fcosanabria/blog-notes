@@ -3,7 +3,12 @@ layout: page
 permalink: /
 ---
 
-### Collect. Connect. Create.
+
+> I want to let you know that the original content of the original author of this theme, is great. So this I will keep most of the content from him. I like it's structure and tt is super valuable and I really hope it works for you as it did for me. 
+> 
+>— Francisco
+
+### Collect. Connect. Create
 
 [[“There is nothing to writing. All you do is sit down at a typewriter and bleed.” <br><cite>--- Ernest Hemingway </cite>::lmn]]<mark>Welcome aboard!</mark> This project began development in late 2020 and is intended to serve three purposes:[[“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.” <br><cite>--- Andrew Sullivan</cite>::rmn]]
 
@@ -16,13 +21,11 @@ permalink: /
 
 In essence, this is the dream website that I've always wanted to make since I began tinkering with HTML over ten years ago. As stated above, unlike regular Jekyll blogs, this blog has dedicated sections for [notes](/notes), as well as [journal entries](/journals). This is meant to encourage daily public writing, as well as the [Digital Garden](#digital-gardens-an-overview) philosophy.
 
-For more examples and information, please visit the following articles:
+If you want to know more about how Enjoyment Work works, please check the following articles:
 
-1. **[[Exploring the features of Enjoyment work]]**
-2. **[[Example Page to View Markdown Rendering]]**
-3. **[[How-To Setup Enjoyment work]]**
+- **[[Information about Enjoyment Work]]**
 
-## About {{site.title}}
+## About Enjoyment Work
 
 The next step for Enjoyment Work is to properly configure the syntax required to work with [**Obsidian**](https://obsidian.md/), a powerful knowledge base that works on top of a local folder of plain text Markdown files. Which would ultimately allow somebody to turn their Obsidian notes into an online blog by simply using the `_notes` directory.
 
