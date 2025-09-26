@@ -1,7 +1,6 @@
 ---
 title: No era pereza, era burnout
 author: Francisco Sanabria 
-avatar: assets/img/avatar.png
 categories:
   - life
 tags:

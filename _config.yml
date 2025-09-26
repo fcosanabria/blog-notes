@@ -2,30 +2,24 @@
 title: "Digital Death Disrupt"
 tagline: "- Digital thoughts 🤖"
 name: "Francisco S."
-author_bio: "Hello! My name is Francisco, I'm a 27-year-old. Cloud Engineer and SRE by day, and visual artist by night."
+author_bio: "Cloud Engineer and SRE by day, visual artist by night."
 description: "A Digital Garden: Posting my thoughts and progress."
 footer_description:
   'The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the
   resulting "showpiece" and more on the process, care, and craft it takes to get there. While not everybody
   has or works in a dirt garden, we all share a familiarity with the idea of what a garden is. - Brennan Brown'
 notes_url: "https://garden.fcosanabria.com"
-# TODO: change pic
-profile_pic: "https://brennanbrown.ca/img/avatar.jpg"
+profile_pic: "/assets/img/avatar.png"
 favicon: /assets/img/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://garden.fcosanabria.com/" # the base hostname & protocol for your site, e.g. https://example.com
 theme_color: dark
 encoding: utf-8
 
-# TODO: check social media
-#
 # Links and Social Media
-# donate_link: https://ko-fi.com/
 repository: https://github.com/fcosanabria/blog-notes
 github: https://github.com/fcosanabria
-# twitter: https://twitter.com/piktonus97x
 portfolio: https://fcosanabria.com
-# email: mail@brennanbrown.ca
 
 # Build Settings
 theme: null
